@@ -12,6 +12,7 @@
         
     </head>
     <body>
+		Calculater App Project
         <form action="Add.jsp" method="POST">
         <table cellpadding ="10" cellspacing="10">
             <tr>
