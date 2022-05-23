@@ -38,7 +38,7 @@
             <td> <input type="text" name="num2" id="num2" > </td>
             </tr>
         <tr>          
-            <td> <input type="submit" value="O" > </td>
+            <td> <input type="submit" value="Ok" > </td>
             </tr>
         </table>
      </form>   
